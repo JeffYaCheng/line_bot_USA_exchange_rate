@@ -1,0 +1,7 @@
+*.ipynb
+config.py
+__pycache__/
+exchage_rate.csv
+line_bot_test.py
+ngrok.exe
+計算理論 1111 期末專題.pdf
